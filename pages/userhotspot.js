@@ -8,13 +8,9 @@ export default function userhotspot(){
             </Head>
             <Menu></Menu> 
             <center>
-            <img className="gambar" src="/gambar/hotspot1.png"/> 
+        <h1> AJI LAKSONO // STIKOM BANYUWANGI </h1>
+        <h1> SM4.1 || 1118101586</h1>
             </center>
-            <style jsx>{`
-                .gambar{
-                    width:100%;
-                }
-            `}</style>
         </div>
     )
 }
